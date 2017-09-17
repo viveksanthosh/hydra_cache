@@ -1,0 +1,15 @@
+{
+  "name": "hyra-cache",
+  "version": "1.0.0",
+  "description": "A node module that offers four caching techniques for your api calls",
+  "main": "index.js",
+  "types": "hyra-cache.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "memory-cache": "^0.2.0"
+  }
+}
