@@ -1,5 +1,5 @@
 {
-  "name": "hyra-cache",
+  "name": "hydra-cache",
   "version": "1.0.0",
   "description": "A node module that offers four caching techniques for your api calls",
   "main": "index.js",
